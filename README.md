@@ -1,3 +1,3 @@
 # Thermo-M5stack
 
-check origin branch
+check master branch
