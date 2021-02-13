@@ -7,7 +7,7 @@
 [M5stack](https://www.switch-science.com/catalog/3647/)  
 [AMG8833](https://www.switch-science.com/catalog/3395/)
 
-[作成に当たり参考にしたサイト](https://ambidata.io/samples/m5stack/thermalcamera/)
+[参考にしたサイト](https://ambidata.io/samples/m5stack/thermalcamera/)
 
 
 ## Description
