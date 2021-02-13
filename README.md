@@ -2,6 +2,12 @@
 概要
 
 マイコンM5stackとConta™ サーモグラフィー AMG8833を使用して非接触温度計測と監視カメラのようなものを作りました。
+
+↓2021年2月時点では、SWITCHSIENCEさんで購入可能です。  
+[M5stack](https://www.switch-science.com/catalog/3647/)
+
+[AMG8833](https://www.switch-science.com/catalog/3395/)
+
 [作成に当たり参考にしたサイト](https://ambidata.io/samples/m5stack/thermalcamera/)
 
 ## Description
